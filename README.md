@@ -62,7 +62,7 @@ cargo run
 
 Thank you for exploring Rust-Basics! 
 
-Feel Free to reach me on ✉️Heinz1Dev@gmail.com✨
+Feel Free to reach me on ✉️snowopard@gmail.com✨
 
 <div id="header" align="center">
   <img src="https://i.imgur.com/RtsYtRt.png" width="100"/>
