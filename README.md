@@ -57,14 +57,3 @@ To execute any code, use the following command:
 cargo run
 ```
 
-
-## Acknowledgements
-
-Thank you for exploring Rust-Basics! 
-
-Feel Free to reach me on ✉️snowopard@gmail.com✨
-
-<div id="header" align="center">
-  <img src="https://i.imgur.com/RtsYtRt.png" width="100"/>
-  <h3>HeinzDev</h3>
-</div>
